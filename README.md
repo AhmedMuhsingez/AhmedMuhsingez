@@ -39,5 +39,8 @@ Building and commercializing **OMS** for industrial SMEs, and open to full-stack
 ---
 
 <!-- Keep your existing "Most Used Languages" and GitHub stats blocks below this line [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AhmedMuhsingez&langs_count=5&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=AhmedMuhsingez&langs_count=5&hide_values=true&theme=transparent) -->
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AhmedMuhsingez&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=AhmedMuhsingez&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)
+
+</div>
