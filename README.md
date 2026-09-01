@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋
+# Welcome 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhsingez.com-2563eb?style=flat-square)](https://muhsingez.com)
 [![Location](https://img.shields.io/badge/Based%20in-Istanbul-informational?style=flat-square)](#)
@@ -11,8 +11,8 @@
 
 ### About Me
 
-- Software Developer, and SaaS Builder - fullstack, mobile and devops
-- Building with **React, TypeScript, Node.js/Express, Electron, and React Native**
+- Software Developer and SaaS Builder - fullstack, mobile and devops
+- Building with **React, React Native, Node.js, Postgresql, Prisma, and Coolify**
 - Current MVP **OMS**, an Electron desktop app that manages the full quotation lifecycle for industrial business as a SaaS — TypeScript/Express backend, its own CI/CD pipeline, and a self-hosted delivery infra
 - B.Sc. in **Electrical & Electronics Engineering**
 
