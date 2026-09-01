@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ahmed 👋
-
-**Full-Stack Developer** — bringing an electrical engineering background into clean, reliable software.
+# Hi 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhsingez.com-2563eb?style=flat-square)](https://muhsingez.com)
 [![Location](https://img.shields.io/badge/Based%20in-Istanbul-informational?style=flat-square)](#)
@@ -13,10 +11,10 @@
 
 ### About Me
 
-- 🔧 Software Developer - fullstack, mobile and devops
-- 💻 Building with **React, TypeScript, Node.js/Express, Electron, and React Native**
-- ⚡ B.Sc. in **Electrical & Electronics Engineering**
-- 🚀 Current MVP **OMS**, an Electron desktop app that manages the full quotation lifecycle for industrial business as a SaaS — TypeScript/Express backend, its own CI/CD pipeline, and a self-hosted delivery infra
+- Software Developer, and SaaS Builder - fullstack, mobile and devops
+- Building with **React, TypeScript, Node.js/Express, Electron, and React Native**
+- Current MVP **OMS**, an Electron desktop app that manages the full quotation lifecycle for industrial business as a SaaS — TypeScript/Express backend, its own CI/CD pipeline, and a self-hosted delivery infra
+- B.Sc. in **Electrical & Electronics Engineering**
 
 ### Tech Stack
 
@@ -30,7 +28,6 @@
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
----
 
 <!-- Keep your existing "Most Used Languages" and GitHub stats blocks below this line [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AhmedMuhsingez&langs_count=5&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=AhmedMuhsingez&langs_count=5&hide_values=true&theme=transparent) -->
 <!-- <div align="center">
